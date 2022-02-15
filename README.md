@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hannah! (with an 'h'at the end bc duh)
+- 👋 Hi, I’m Hannah!Marie
 - 👀 I’m interested in music, art, and videogames.
 - 🌱 I’m currently learning how to add dynamic lighting through a URP for my farm sim RPG.
 - 💞️ I’m looking to collaborate on game dev!
